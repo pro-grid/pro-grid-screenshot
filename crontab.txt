@@ -1,1 +1,1 @@
-0 * * * * webkit2png -F http://www.progrid.io/#/
+0 * * * * firefox -savepng http://www.progrid.io/#/
